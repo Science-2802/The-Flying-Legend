@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Rithik - The Flying Legend",
+  "description": "A fun and challenging Flappy-style arcade game featuring Rithik with voice quips, dynamic levels, power-ups, bonus coin rush rounds, competitive leaderboards, daily rewards, and seasonal challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
